@@ -41,3 +41,6 @@ Tests run automatically using GitHub Actions on every push.
 ## Author
 Gisela Mora  
 QA Automation Engineer
+## Test Report
+
+![Playwright Report](report.png)
