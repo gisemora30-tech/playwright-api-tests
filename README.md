@@ -44,3 +44,6 @@ QA Automation Engineer
 ## Test Report
 
 ![Playwright Report](report.png)
+## Test Report
+
+![Playwright Report](evi%20github.png)
